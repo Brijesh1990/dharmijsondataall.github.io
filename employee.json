@@ -1,0 +1,38 @@
+{
+  "employeedetails":
+  [
+    {
+    "name":"dharmi",
+    "age":20,
+    "salary":45000
+   },
+   {
+    "name":"aisha",
+    "age":22,
+    "salary":35000
+   },
+
+   {
+    "name":"kumar",
+    "age":28,
+    "salary":25000
+   },
+
+   {
+    "name":"Brijesh",
+    "age":32,
+    "salary":65000
+   }   
+],   
+
+"countrylist":
+  [
+    {
+    "ind":"india"
+   },
+   {
+    "usa":"united of america"
+   }
+]   
+
+}
